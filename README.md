@@ -15,7 +15,7 @@
 * Equidad: Trabajo en grupo y distribución de tareas de forma pareja.
 * Apoyo mutuo: Disposición constante para ayudar al compañero que esté atascado en su parte del proyecto.
 * Resolución conjunta: Debatir y resolver las dudas o problemas técnicos en conjunto para no tomar decisiones unilaterales.
-* Comunicación: Vía WhatsApp.
+* Comunicación: Vía WhatsApp y Discord.
 
 ### DEFINICIÓN DEL DESAFÍO
 Gestión del Riesgo: Modernización de la Red Comunitaria de Observadores de San José de Maipo.
