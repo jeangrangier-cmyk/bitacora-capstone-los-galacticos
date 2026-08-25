@@ -1,5 +1,6 @@
 ### Bitácora de Equipo - Capstone Intermedio 2026
 ### FOTO DEL EQUIPO
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/3693d674-916c-407a-879b-320285e7563a" />
 
 ### NOMBRE DEL EQUIPO
 **Los Galácticos**
@@ -18,16 +19,16 @@
 
 ### DEFINICIÓN DEL DESAFÍO
 Gestión del Riesgo: Modernización de la Red Comunitaria de Observadores de San José de Maipo.
-El desafío consiste en desarrollar un prototipo de pluviómetro y sensor de temperatura inteligente y de bajo costo que automatice el registro de datos, reemplazando el actual método manual. La solución debe ser capaz de operar en condiciones de conectividad limitada e integrar reportes ciudadanos, facilitando el almacenamiento y visualización de la información para apoyar a SERNAGEOMIN y a la comunidad en la prevención de aluviones.
+El desafío consiste en desarrollar un prototipo de pluviómetro y sensor de temperatura inteligente de bajo costo que automatice el registro de datos, reemplazando el actual método manual. La solución debe ser capaz de operar en condiciones de conectividad limitada e integrar reportes ciudadanos, facilitando el almacenamiento y visualización de la información para apoyar a SERNAGEOMIN y a la comunidad en la prevención de aluviones.
 
 ### DECLARACIÓN DE COMPROMISO SMART POR PERSONA
-Jean Paul Grangier Hernández (Electrónico): Desarrollar el hardware de captura de datos y telemetría del pluviómetro utilizando microcontroladores como placas ESP32 para asegurar la transmisión estable en zonas de baja conectividad al finalizar el semestre académico.
+Jean Paul Grangier (Electrónico): Desarrollar el hardware de captura de datos y telemetría del pluviómetro utilizando microcontroladores como placas ESP32 para asegurar la transmisión estable en zonas de baja conectividad al finalizar el semestre académico.
 
-Integrante 2 (Informático):
+Daniel Pantoja (Informático):
 Implementar una plataforma centralizada para el almacenamiento y visualización de datos mediante un dashboard web que reciba la telemetría de los sensores y los reportes ciudadanos para la entrega del prototipo final del curso.
 
-Integrante 3 (Industrial):
+Tomas Vera (Industrial):
 Diseñar un modelo operativo escalable para la red comunitaria de monitoreo estandarizando los procesos de reporte de los observadores locales y planificando la logística de instalación al término de la ejecución del proyecto en el semestre.
 
-Integrante 4 (Industrial):
+Benjamin Burgos (Industrial):
 Evaluar la viabilidad económica y la usabilidad del sistema estructurando un presupuesto de bajo costo y validando la solución directamente con los actores clave (SERNAGEOMIN y la comunidad) para la presentación final de Capstone.
