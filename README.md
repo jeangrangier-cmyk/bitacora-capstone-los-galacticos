@@ -36,3 +36,4 @@ Evaluar la viabilidad económica y la usabilidad del sistema estructurando un pr
 Integrante 5:
 
 ### Bitácora 25/08:
+Actividad papelógrafo...
