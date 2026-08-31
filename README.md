@@ -34,3 +34,5 @@ Benjamin Burgos (Industrial):
 Evaluar la viabilidad económica y la usabilidad del sistema estructurando un presupuesto de bajo costo y validando la solución directamente con los actores clave (SERNAGEOMIN y la comunidad) para la presentación final de Capstone.
 
 Integrante 5:
+
+### Bitácora 25/08:
