@@ -33,7 +33,7 @@ Diseñar un modelo operativo escalable para la red comunitaria de monitoreo esta
 Benjamin Burgos (Industrial):
 Evaluar la viabilidad económica y la usabilidad del sistema estructurando un presupuesto de bajo costo y validando la solución directamente con los actores clave (SERNAGEOMIN y la comunidad) para la presentación final de Capstone.
 
-Integrante 5:
+Constanza Saavedra (Industrial): Diseñar el plan de escalabilidad operativa para cubrir las 50 quebradas prioritarias, definiendo la matriz de riesgos del proyecto y los requerimientos logísticos de implementación para la entrega final de Capstone 
 
 ### Bitácora 25/08:
 Actividad papelógrafo...
