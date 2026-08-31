@@ -1,9 +1,9 @@
 ### Bitácora de Equipo - Capstone Intermedio 2026
 ### FOTO DEL EQUIPO
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/3693d674-916c-407a-879b-320285e7563a" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/31d2b824-fe7a-4948-bb54-03aa38940245" />
 
 ### NOMBRE DEL EQUIPO
-**Los Galácticos**
+**Los Galáctic@s**
 
 ### VALORES DEL EQUIPO
 * Empatía: Comprender las necesidades reales de la comunidad de San José de Maipo frente al riesgo de desastres, y mantener un trato considerado entre nosotros.
@@ -32,3 +32,5 @@ Diseñar un modelo operativo escalable para la red comunitaria de monitoreo esta
 
 Benjamin Burgos (Industrial):
 Evaluar la viabilidad económica y la usabilidad del sistema estructurando un presupuesto de bajo costo y validando la solución directamente con los actores clave (SERNAGEOMIN y la comunidad) para la presentación final de Capstone.
+
+Integrante 5:
