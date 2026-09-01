@@ -69,3 +69,51 @@ Como equipo, concluimos que antes de comenzar a desarrollar la solución tecnol�
 * Investigar el comportamiento de las precipitaciones en la zona.
 * Identificar actores institucionales y comunitarios.
 * Definir posteriormente los requerimientos de nuestra solución.
+
+### Actividad: Mapa de empatía
+
+<img width="427" height="288" alt="image" src="https://github.com/user-attachments/assets/03ada8d4-3c6a-4ab5-a398-49dcf991af6e" />
+
+Usuario: Observador comunitario de una zona expuesta a aluviones
+
+Queremos comprender el problema desde la perspectiva de un observador comunitario de San José de Maipo, porque es quien se encuentra directamente en el territorio, presencia los cambios en las condiciones del entorno y puede entregar información relevante sobre situaciones de riesgo.
+
+**¿Qué piensa y siente?**
+* Preocupación por su familia y comunidad --> Lo sabemos
+* Responsabilidad de informar situaciones de riesgo --> Lo suponemos
+* Incertidumbre frente a lluvias intensas --> Lo suponemos
+* Temor a quedar aislado durante una emergencia --> Lo sabemos
+
+**¿Qué oye?**
+* Alertas de organismos de emergencia --> Lo suponemos
+* Información de vecinos y familiares --> Lo suponemos
+* Avisos sobre lluvias, cortes de caminos y aluviones --> Lo suponemos
+* Recomendaciones de las autoridades --> Lo suponemos
+
+**¿Qué ve?**
+* Lluvias intensas --> Lo sabemos
+* Quebradas y zonas cordilleranas --> Lo sabemos
+* Viviendas y caminos expuestos --> Lo sabemos
+* Cambios en el terreno y aumento de caudales --> Lo sabemos
+* Sectores que pueden quedar aislados --> Lo sabemos
+
+**¿Qué dice y hace?**
+* Comunica situaciones anormales --> Lo suponemos
+* Informa a vecinos y autoridades --> Lo suponemos
+* Observa las condiciones del entorno --> Lo suponemos
+* Registra información mediante fotografías o videos --> Lo suponemos
+* Participa en acciones de prevención --> Lo suponemos
+
+**Esfuerzos**
+* Conectividad limitada --> Lo sabemos
+* Registro manual de información --> Lo sabemos
+* Comunicación tardía --> Lo sabemos
+* Falta de información localizada --> Lo sabemos
+* Dificultad para coordinarse --> Lo sabemos
+
+**Resultados**
+* Información menos oportuna --> Lo sabemos
+* Peor comunicación entre actores --> Lo sabemos
+* Menor preparación de la comunidad --> Lo sabemos
+* Peor capacidad de respuesta --> Lo sabemos
+* Mayor exposición ante una emergencia --> Lo sabemos
